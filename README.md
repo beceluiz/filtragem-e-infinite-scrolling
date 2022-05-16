@@ -11,8 +11,7 @@
 
 # Tecnologias 🚀 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-- HTML
-- CSS
+- HTML, CSS (boilerplate disponibilizado pelo grande Professor Roger Melo).
 - Vanilla JS
 
 ## Sobre 📖
@@ -30,3 +29,4 @@ Práticar principalmente Vanilla JS e seus métodos. Entre eles:
 - DOM
 - Métodos de string
 - Métodos de array
+
